@@ -3,5 +3,7 @@
 2. performed exploratory data analysis(EDA) using pandas, matpplotlib and seaborn libraries.
 3. identified potential customers across different states, occupation, gender and age groups.
 4. idenfied most selling product categories, which can plan inventory and hence meet the demands
-#Conclusion
+
+
+# Conclusion
 Married women age group 26-35 years from UP, Maharashtra and Karnataka, working in IT, Health care and Aviation are more likely to buy products from food, clothing and electronics category
